@@ -29,4 +29,4 @@ https://google.com
 
 * I put references at the bottom.
 
-    #zettel #notes
+    #zettel #notes #markdown
