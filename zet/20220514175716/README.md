@@ -8,7 +8,7 @@ This is the body of the zettel (which means "slip").
 But, when I have an ordered or numbered list:
 
 1. First
-2. Second
+1. Second
 
 ```go
 package main
